@@ -3,9 +3,9 @@ import "./globals.css"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Memórias do Coração",
-  description: "Uma galeria de memórias especiais em formato Polaroid",
-    generator: 'v0.dev'
+  title: "Um mês, uma lembrança.",
+  description: "De nós, para nós, um futuro inesquecível",
+    generator: 'Erick Cabras'
 }
 
 export default function RootLayout({
