@@ -5,7 +5,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "Um mês, uma lembrança.",
   description: "De nós, para nós, um futuro inesquecível",
-    generator: 'Erick Cabras'
+    generator: 'Erick Cabral'
 }
 
 export default function RootLayout({
